@@ -50,7 +50,7 @@ PREMINE
 DOWNLOADS
 
 Windows
-http://www.filedropper.com/marinecoin
+http://www.filedropper.com/marinecoin_3
 
 MacOS
 Available on the website
